@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Say hello
-        run: echo "Hello! My GitHub Actions workflow works."
+        run: echo "Hello! My GitHub Actions workflow works.."
